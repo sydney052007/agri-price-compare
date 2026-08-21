@@ -1,0 +1,5 @@
+{
+  "name": "AgriSight AI - 台灣農產行情分析",
+  "description": "A dashboard visualizing Taiwan agricultural product prices, volume, and rainfall correlations, powered by Gemini AI for market analysis.",
+  "requestFramePermissions": []
+}
