@@ -1,3 +1,7 @@
+# AgriSight AI
+
+🔗 Live demo: https://agri-price-compare.vercel.app/
+
 Before you begin, ensure you have the following installed:
 * **Node.js** (for the frontend)
 download web: `https://nodejs.org/zh-tw/download`
